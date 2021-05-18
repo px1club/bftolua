@@ -1,3 +1,5 @@
 # bftolua
 The original and **real** one
-Loops currently break it lol will fix later.
+
+## What is this?
+A brainf*ck transpiler which uses lua as a compilation target.
